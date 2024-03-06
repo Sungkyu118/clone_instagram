@@ -1,18 +1,11 @@
-# part2_insta_clone
+# 인스타그램 클론코딩
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+이 프로젝트는 Flutter를 사용해서 Instagram을 clone coding한 것이다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+서버를 통한 데이터 작업은 없으며, UI를 디자인하는 과정을 통해 학습하는 것이 주요 목적이다.
 
 ![screenshot1](/screenshot/Screenshot_20240229_214956.png)
