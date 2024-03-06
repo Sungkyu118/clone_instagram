@@ -5,4 +5,4 @@
 서버를 통한 데이터 작업은 없으며, UI를 디자인하는 과정을 통해 학습하는 것이 주요 목적이다.
 
 
-<img src="/screenshot/Screenshot_20240229_214956.png" width="200">
+<img src="/screenshot/Screenshot_20240229_214956.png" width="60%">
